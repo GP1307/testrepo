@@ -1,3 +1,3 @@
 # testrepo
 
-### ediding in progress
+### editing in progress
